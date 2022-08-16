@@ -1,11 +1,11 @@
 # Hotel-bookings
 
 I did an analysis of the hotel booking dataset of a certain hotel to track the booking over 1 year (2015–2017). The dataset was provided by Kaggle dataset . The tool used for this analysis was Microsoft Power BI.
-The data was connected through the Csv option since the dataset is a CSV format and then transformed in Power query. The first cleaning I did was to inspect the the data type for each column to ensure they have the correct classification and i merged the each year,day, and month into(one column) renamed it as Date, replaced values where necessary
+The data was connected through the Csv option since the dataset is a CSV format and then transformed in Power query. The first cleaning I did was to inspect the the data type for each column to ensure they have the correct classification and i Merged the each year,day, and month into(one column) renamed it as Date, replaced values where necessary
 
 After doing some cleaning and preparation in power query, the data was loaded into power bi.
 
-Some measures were made such as Total Bookings ,adults, total agents, cancelled reservations , Total childresn etc. were created by clicking the new measure in the home tab.After the various cleaning and preparations were made, the data was then ready for visualization.
+Some measures were made such as Total Bookings ,adults, total agents, cancelled reservations , Total children etc. were created by clicking the new measure in the home tab.After the various cleaning and preparations were made, the data was then ready for visualization.
 
 Created a dashboard that will suit what stakeholders want and what stakeholders plan to achieve from the dashboard which is very important
 
